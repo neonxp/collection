@@ -4,7 +4,7 @@ Go >= 1.18 required.
 
 # Installation
 
-`go get https://go.neonxp.dev/collection@latest`
+`go get go.neonxp.dev/collection@latest`
 
 # Methods
 
